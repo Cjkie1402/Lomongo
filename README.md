@@ -1,2 +1,2 @@
 # Lomongo
-this my first
+this my first repository
